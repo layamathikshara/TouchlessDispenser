@@ -1,5 +1,5 @@
 /******************* COVID-19 Sanitizer/Soap Dispenser *******************/
-/* Title:
+/* Title: Automatic Hand Sanitizer Dispenser
  * Author: Laya Mathikshara
  * Date of creation: 19.03.2020
  * MCU: Arduino Mega 2560
